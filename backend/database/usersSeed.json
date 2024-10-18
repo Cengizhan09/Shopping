@@ -1,0 +1,24 @@
+[
+    {
+        "email": "admin@example.com",
+        "name": "Admin Adminson",
+        "role": "admin",
+        "address": {
+            "street": "123 Street",
+            "zip": "123 45",
+            "city": "City"
+        },
+        "orderHistory": []
+    },
+    {
+        "email": "customer@example.com",
+        "name": "John Doe",
+        "role": "customer",
+        "address": {
+            "street": "Wallstreet 1",
+            "zip": "10 0004",
+            "city": "New York City"
+        },
+        "orderHistory": []
+    }
+]

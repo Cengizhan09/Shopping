@@ -1,0 +1,99 @@
+[
+    {
+        "title" : "Tricky",
+        "price" : 949,
+        "shortDesc" : "Unisex",
+        "category": "board",
+        "longDesc" : "Lorem ipsum dolor sit amet, skateboardy adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea. ",
+        "imgFile" : "skateboard-generic.png"
+    },
+    {
+        "title" : "Flipper",
+        "price" : 949,
+        "shortDesc" : "Unisex",
+        "category": "board",
+        "longDesc" : "Lorem ipsum dolor sit amet, skateboardy adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea.",
+        "imgFile" : "skateboard-generic.png"
+    },
+    {
+        "title" : "Blitz",
+        "price" : 949,
+        "shortDesc" : "Unisex",
+        "category": "board",
+        "longDesc" : "Lorem ipsum dolor sit amet, skateboardy adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea. ",
+        "imgFile" : "skateboard-generic.png"
+    },
+    {
+        "title" : "Custom Design",
+        "price" : 999,
+        "shortDesc" : "Unisex",
+        "category": "board",
+        "longDesc" : "Lorem ipsum dolor sit amet, skateboardy adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea. ",
+        "imgFile" : "skateboard-greta.png"
+    },
+    {
+        "title" : "Twister",
+        "price" : 949,
+        "shortDesc" : "Unisex",
+        "category": "board",
+        "longDesc" : "Lorem ipsum dolor sit amet, skateboardy adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea.",
+        "imgFile" : "skateboard-generic.png"
+    },
+    {
+        "title" : "Fast",
+        "price" : 949,
+        "shortDesc" : "Unisex",
+        "category": "board",
+        "longDesc" : "Lorem ipsum dolor sit amet, skateboardy adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea. ",
+        "imgFile" : "skateboard-generic.png"
+    },
+    {
+        "title" : "Hoodie",
+        "price" : 549,
+        "shortDesc" : "Wave",
+        "category": "clothes",
+        "longDesc" : "Lorem ipsum dolor sit amet, skateboardy adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea. ",
+        "imgFile" : "hoodie-black.png"
+    },
+    {
+        "title" : "Hoodie",
+        "price" : 549,
+        "shortDesc" : "Wave",
+        "category": "clothes",
+        "longDesc" : "Lorem ipsum dolor sit amet, skateboardy adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea. ",
+        "imgFile" : "hoodie-red.png"
+    },
+    {
+        "title" : "Hoodie",
+        "price" : 549,
+        "shortDesc" : "Wave",
+        "category": "clothes",
+        "longDesc" : "Lorem ipsum dolor sit amet, skateboardy adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea. ",
+        "imgFile" : "hoodie-blue.png"
+    },
+    {
+        "title" : "Clean",
+        "price" : 259,
+        "shortDesc" : "Hard",
+        "category": "wheels",
+        "longDesc" : "Lorem ipsum dolor sit amet, skateboardy adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea. ",
+        "imgFile" : "wheel-clean.png"
+    },
+    {
+        "title" : "Force",
+        "price" : 229,
+        "shortDesc" : "Medium",
+        "category": "wheels",
+        "longDesc" : "Lorem ipsum dolor sit amet, skateboardy adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea. ",
+        "imgFile" : "wheel-force.png"
+    },
+    {
+        "title" : "Turbo",
+        "price" : 229,
+        "shortDesc" : "Hard",
+        "category": "wheels",
+        "longDesc" : "Lorem ipsum dolor sit amet, skateboardy adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea. ",
+        "imgFile" : "wheel-turbo.png"
+    }
+    
+]
